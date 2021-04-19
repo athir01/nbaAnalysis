@@ -1,1 +1,1 @@
-# Exploring shooting stats in the NBA
+# Exploring significance of 3-pointers in the NBA

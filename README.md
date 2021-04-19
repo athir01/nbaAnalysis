@@ -1,1 +1,1 @@
-# nbaAnalysis
+# Exploring shooting stats in the NBA
